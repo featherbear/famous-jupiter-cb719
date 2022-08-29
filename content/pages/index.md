@@ -7,6 +7,11 @@ sections:
     subheading: >
       You've just [unlocked visual editing
       capabilities](https://www.stackbit.com/) in this Next.js app.
+
+
+      \*\*nice
+
+      **nice**
     buttons:
       - label: Start Building
         url: 'https://docs.stackbit.com/getting-started/'
