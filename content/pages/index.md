@@ -24,6 +24,10 @@ sections:
     subheading: |
       Or jump right to a specific topic to help you build your site.
     cards:
+      - type: Card
+        heading: Card Heading
+        subheading: Card description goes here ...
+        url: /
       - heading: How Stackbit Works →
         subheading: |
           Follow an end-to-end guide to learn the inner-workings of Stackbit.
